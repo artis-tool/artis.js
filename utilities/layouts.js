@@ -1,0 +1,16 @@
+export const layouts = {
+  bottom: "bottom",
+  display: "display",
+  float: "float",
+  left: "left",
+  imageFit: "objectFit",
+  imagePosition: "objectPosition",
+  overflow: "overflow",
+  overflowX: "overflowX",
+  overflowY: "overflowY",
+  position: "position",
+  right: "right",
+  top: "top",
+  show: "visibility",
+  stack: "zIndex",
+};

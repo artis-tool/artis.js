@@ -1,0 +1,22 @@
+{
+  "name": "artis",
+  "version": "1.0.0",
+  "description": "A low-level and functional virtual CSS library.",
+  "main": "artis.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artis/artis.js.git"
+  },
+  "keywords": [
+    "virtual-css",
+    "virtual-dom",
+    "css-framework",
+    "css-in-js"
+  ],
+  "author": "Louis Low (iamlouislow@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artis/artis.js/issues"
+  },
+  "homepage": "https://artisjs.netlify.app"
+}
