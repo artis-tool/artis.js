@@ -1,6 +1,6 @@
 {
   "name": "artis",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A low-level and functional virtual CSS library.",
   "main": "artis.js",
   "repository": {
