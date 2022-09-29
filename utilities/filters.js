@@ -1,5 +1,4 @@
-export const others = {
+export const filters = {
   filter: "filter",
   transition: "transition",
-  clip: "clip",
 };

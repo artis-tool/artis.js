@@ -1,5 +1,6 @@
 export const layouts = {
   bottom: "bottom",
+  clip: "clip",
   display: "display",
   float: "float",
   left: "left",

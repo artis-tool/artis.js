@@ -1,11 +1,11 @@
 {
   "name": "artis",
-  "version": "1.0.4",
-  "description": "A low-level and functional virtual CSS library.",
+  "version": "1.0.5",
+  "description": "Artis is a low-level and functional virtual CSS library with no CSS codes. More than 80 Utilities. Infinite Configurations.",
   "main": "artis.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artis/artis.js.git"
+    "url": "git+https://github.com/artis-tool/artis.js.git"
   },
   "keywords": [
     "virtual-css",
@@ -13,10 +13,10 @@
     "css-framework",
     "css-in-js"
   ],
-  "author": "Louis Low (iamlouislow@gmail.com)",
+  "author": "Louis Low (artisjsdev@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/artis/artis.js/issues"
+    "url": "https://github.com/artis-tool/artis.js/issues"
   },
   "homepage": "https://artisjs.netlify.app"
 }
