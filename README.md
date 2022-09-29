@@ -6,9 +6,7 @@
   <img src="https://raw.githubusercontent.com/artis-tool/artis.js/main/banner.png" width="auto" alt="Artis JS">
 </p>
 
-# Artis, a low-level & functional virtual CSS library with no CSS codes.
-
-## More than 80 Utilities. Infinite Configuration.
+# A low-level and functional virtual CSS library with no CSS codes. More than 80 Utilities. Infinite Configurations.
 
 [![npm version](https://badge.fury.io/js/artis.svg)](https://badge.fury.io/js/artis)
 [![npm downloads](https://img.shields.io/npm/dm/artis.svg)](https://www.npmjs.com/package/artis)
@@ -20,6 +18,7 @@
 Simply not something like CSS-in-JS methodology, sort of.
 
 ## Benefits
+
 - No tree-shaking CSS classes
 - No Extra CSS bundling
 - No CSS blocking
@@ -34,7 +33,7 @@ $ npm i artis --save-dev
 
 [Read the documentation](https://artisjs.netlify.app)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0bc0b517-0683-4ddc-a41c-ad5ecb845701/deploy-status)](https://app.netlify.com/sites/artisjs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2acf9480-5e02-4dc7-bb61-e2c8dc6255ff/deploy-status)](https://app.netlify.com/sites/artisjs/deploys)
 
 ## CLI
 
