@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/artis-tool/artis.js/main/banner.png" width="auto" alt="Artis JS">
 </p>
 
-# Artis, a low-level & functional virtual CSS library.
+# Artis, a low-level & functional virtual CSS library with no CSS codes.
 
 ## More than 80 Utilities. Infinite Configuration.
 
