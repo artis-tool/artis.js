@@ -1,3 +1,5 @@
+import { styleElement } from "./style-element";
+
 export const observer = new MutationObserver((mutations, observer2) => {
   mutations.forEach((mutation) => {
     const target = mutation.target;
