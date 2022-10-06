@@ -39,6 +39,7 @@ export const filteredUtils = [
   "textDirection",
   "textOverflow",
   "textTransform",
+  "transform",
   "transition",
   "select",
   "show",

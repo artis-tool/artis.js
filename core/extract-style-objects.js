@@ -7,6 +7,7 @@ import { borders } from "../utilities/borders";
 import { spacing } from "../utilities/spacing";
 import { sizing } from "../utilities/sizing";
 import { transitions } from "../utilities/transitions";
+import { transforms } from "../utilities/transforms";
 import { filters } from "../utilities/filters";
 
 import { filteredUtils } from "../utilities/filteredUtils";
@@ -21,6 +22,7 @@ const cssUtilities = {
   ...spacing,
   ...sizing,
   ...transitions,
+  ...transforms,
   ...filters,
 };
 
