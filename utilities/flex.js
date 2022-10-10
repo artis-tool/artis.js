@@ -5,6 +5,7 @@ export const flex = {
   flexDirection: "flexDirection",
   flexDefault: "flex",
   flexBasis: "flexBasis",
+  flexGap: "gap",
   flexGrow: "flexGrow",
   flexShrink: "flexShrink",
   flexWrap: "flexWrap",
